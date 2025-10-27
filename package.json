@@ -1,0 +1,12 @@
+{
+  "name": "modular-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Node.js dengan modularisasi",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "keywords": []
+}
